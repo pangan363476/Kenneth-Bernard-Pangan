@@ -1,0 +1,3 @@
+# The portfolio lives in a subfolder, so tell Netlify to publish that folder.
+[build]
+  publish = "kenneth_digital_portfolio"
